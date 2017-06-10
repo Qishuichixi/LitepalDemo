@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <litepal>
+        <dbname value="qshui" />
+        <version value="10" />
+        <list>
+            <mapping class="com.qishui.zhou.litepaldemo.bean.NewsBean"></mapping>
+            <mapping class="com.qishui.zhou.litepaldemo.bean.CommentBean"></mapping>
+            <mapping class="com.qishui.zhou.litepaldemo.bean.Category"></mapping>
+            <mapping class="com.qishui.zhou.litepaldemo.bean.IntroductionBean"></mapping>
+        </list>
+    </litepal>
+</resources>
